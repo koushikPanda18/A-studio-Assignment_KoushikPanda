@@ -1,0 +1,28 @@
+/* write your css here */
+@font-face{
+    font-family: ultra;
+    src: url(./Font/AvertaDemoPE-Regular.otf);
+}
+.ultra{
+    font-family: ultra;
+}
+
+@font-face{
+    font-family: ultra1;
+    src: url(./Font/AvertaDemoPE-ExtraboldItalic.otf);
+}
+.ultra1{
+    font-family: ultra1;
+}
+
+@font-face{
+    font-family: form;
+    src: url(./Font/SpaceGrotesk-VariableFont_wght.ttf);
+}
+.form{
+    font-family: form;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
