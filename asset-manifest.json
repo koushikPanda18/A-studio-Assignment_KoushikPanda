@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/A-studio-Assignment_KoushikPanda/static/css/main.b980f477.css",
+    "main.js": "/A-studio-Assignment_KoushikPanda/static/js/main.8ca725e5.js",
+    "static/media/image8.png": "/A-studio-Assignment_KoushikPanda/static/media/image8.cdd5443fba98131f33f0.png",
+    "static/media/unsplash_bzqU01v-G54.png": "/A-studio-Assignment_KoushikPanda/static/media/unsplash_bzqU01v-G54.7f396d6355cffb0450e0.png",
+    "static/media/unsplash_MTZTGvDsHFY.png": "/A-studio-Assignment_KoushikPanda/static/media/unsplash_MTZTGvDsHFY.baf80f91429c10e44df5.png",
+    "static/media/Stroke 5.png": "/A-studio-Assignment_KoushikPanda/static/media/Stroke 5.6f86a6c2a846358cd9bd.png",
+    "static/media/SpaceGrotesk-VariableFont_wght.ttf": "/A-studio-Assignment_KoushikPanda/static/media/SpaceGrotesk-VariableFont_wght.1036357b9651eff7d3dd.ttf",
+    "static/media/AvertaDemoPE-ExtraboldItalic.otf": "/A-studio-Assignment_KoushikPanda/static/media/AvertaDemoPE-ExtraboldItalic.10d11f04723c0cefd6bb.otf",
+    "static/media/AvertaDemoPE-Regular.otf": "/A-studio-Assignment_KoushikPanda/static/media/AvertaDemoPE-Regular.fc61eaf9e9ac3dd24896.otf",
+    "static/media/Group 71.png": "/A-studio-Assignment_KoushikPanda/static/media/Group 71.a8fd2ba691f5365cdac7.png",
+    "index.html": "/A-studio-Assignment_KoushikPanda/index.html",
+    "main.b980f477.css.map": "/A-studio-Assignment_KoushikPanda/static/css/main.b980f477.css.map",
+    "main.8ca725e5.js.map": "/A-studio-Assignment_KoushikPanda/static/js/main.8ca725e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b980f477.css",
+    "static/js/main.8ca725e5.js"
+  ]
+}
